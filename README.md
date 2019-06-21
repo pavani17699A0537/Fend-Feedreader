@@ -103,3 +103,9 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 -   feeds should be loaded before they are testing in callbacks.
 -   When complete - all of your tests should pass.
 -   Finally this application will successfully run.
+
+## Run the application
+
+- Download the zip file and extract the zip file.
+- After extracting open the `index.html` file through browser and run the application.
+- There we can see the output. 
